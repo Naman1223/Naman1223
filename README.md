@@ -45,7 +45,7 @@ Currently working on:
 ## 📫 Let's Connect
 
 - **Email:** namant112@gmail.com 
-- **LinkedIn:** [linkedin.com/in/naman-tiwari](https://linkedin.com/in/naman-tiwari))  
+- **LinkedIn:** [linkedin.com/in/namantiwari13](https://linkedin.com/in/namantiwari13))  
 - **Portfolio:** [Coming Soon 🚧]  
 
 ---
