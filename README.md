@@ -44,7 +44,7 @@ Currently working on:
 
 ## 📫 Let's Connect
 
-- **Email:** naman.tiwari@galgotiasuniversity.edu.in  
+- **Email:** namant112@gmail.com 
 - **LinkedIn:** [linkedin.com/in/naman-tiwari](https://linkedin.com/in/naman-tiwari)  
 - **Portfolio:** [Coming Soon 🚧]  
 
