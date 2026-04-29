@@ -27,17 +27,9 @@ Currently working on:
 - **Current Focus:**  
   - Machine Learning for Finance  
   - LLM RAG Applications  
-  - No-code & Low-code automation  
+  - Langchain, Langgraph and Langsmith
 
 ---
-
-##  Projects
-
-- **Personal AI Chatbot** – Answers only from PDF-based vector database  
-- **AutoTrade** – Python-based options trading bots for NSE  
-- **Portfolio Website** – Automated with n8n backend + dynamic chatbot  
-- **Automation Agency** – Helping creators and businesses automate tasks  
-
 > Check out my pinned repositories below!
 
 ---
