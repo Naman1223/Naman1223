@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 Who Am I
+## Who Am I
 
 ```python
 class NamanTiwari:
@@ -33,13 +33,13 @@ class NamanTiwari:
         ]
 
         self.currently_building = [
-            "🤖 Local-First Voice Assistant — Llama 3.1 + Whisper + LangGraph",
-            "📊 Algo Trading Strategies — Bank Nifty & Sensex",
-            "🔍 Personal RAG Chatbot — n8n + Pinecone + Gemini",
-            "🌐 Portfolio Website — Powered by automation",
+            "Local-First Voice Assistant — Llama 3.1 + Whisper + LangGraph",
+            "Algo Trading Strategies — Bank Nifty & Sensex",
+            "Personal RAG Chatbot — n8n + Pinecone + Gemini",
+            "Portfolio Website — Powered by automation",
         ]
 
-        self.fun_fact = "I build AI agents that build software. 🤯"
+        self.fun_fact = "I build AI agents that build software. "
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something extraordinary.")
@@ -47,13 +47,13 @@ class NamanTiwari:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 Multi-Agent Collaborative System
+### Multi-Agent Collaborative System
 > Automated the full software dev lifecycle using 5 coordinated AI agents
 
 - **Orchestration:** LangGraph DAG with stateful agents
@@ -66,7 +66,7 @@ class NamanTiwari:
 </td>
 <td width="50%">
 
-### 📄 AI Resume Optimizer (Agentic)
+### AI Resume Optimizer (Agentic)
 > Autonomous 5-cycle LLM workflow that targets 95%+ ATS scores
 
 - **Method:** Iterative PDF → Markdown → Score → Refine → PDF loop
@@ -81,7 +81,7 @@ class NamanTiwari:
 <tr>
 <td width="50%">
 
-### 🎙️ Local-First Voice Assistant
+### Local-First Voice Assistant
 > Privacy-first AI assistant that runs 100% on your machine
 
 - **STT:** OpenAI Whisper via PyAudio (near real-time)
@@ -94,7 +94,7 @@ class NamanTiwari:
 </td>
 <td width="50%">
 
-### 📈 Algo Trading Bot (In Progress)
+### Algo Trading Bot (In Progress)
 > Quantitative trading strategies for Indian derivatives markets
 
 - **Markets:** Bank Nifty & Sensex Options
@@ -110,7 +110,7 @@ class NamanTiwari:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -155,7 +155,7 @@ class NamanTiwari:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -168,7 +168,7 @@ class NamanTiwari:
 
 ---
 
-## 📚 Certifications
+## Certifications
 
 | Certificate | Issuer | Domain |
 |------------|--------|--------|
@@ -180,30 +180,30 @@ class NamanTiwari:
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 ```
-📍 Deep Learning & Transformers Architecture
-📍 Quantitative Finance & Derivatives Pricing
-📍 LLM Fine-tuning (LoRA / QLoRA / PEFT)
-📍 LLM Ops & Production ML Systems
-📍 System Design for AI Applications
+• Deep Learning & Transformers Architecture
+• Quantitative Finance & Derivatives Pricing
+• LLM Fine-tuning (LoRA / QLoRA / PEFT)
+• LLM Ops & Production ML Systems
+• System Design for AI Applications
 ```
 
 ---
 
-## 🤝 Open To
+## Open To
 
-- 🧪 **ML / AI Internships** — Actively looking for Summer 2026
-- 🤝 **Open Source Collaboration** — LangChain, LangGraph ecosystem
-- 💡 **Research Projects** — Agentic AI, FinTech AI, LLM applications
-- 🚀 **Hackathons** — Let's build something crazy together
+-  **ML / AI Internships** — Actively looking for Summer 2026
+-  **Open Source Collaboration** — LangChain, LangGraph ecosystem
+-  **Research Projects** — Agentic AI, FinTech AI, LLM applications
+-  **Hackathons** — Let's build something crazy together
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Extraordinary
+###  Let's Connect & Build Something Extraordinary
 
 *"The best way to predict the future is to build it — autonomously."*
 
