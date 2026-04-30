@@ -7,9 +7,9 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namantiwari13/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namant112@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/namantiwari13)
-![Profile Views](https://komarev.com/ghpvc/?username=namantiwari13&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namant1223@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Naman1223)
+![Profile Views](https://komarev.com/ghpvc/?username=naman1223&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
 </div>
 
@@ -23,7 +23,7 @@ class NamanTiwari:
         self.name        = "Naman Tiwari"
         self.university  = "Galgotias University — B.Tech CS (6th Sem)"
         self.location    = "Delhi NCR, India 🇮🇳"
-        self.email       = "namant112@gmail.com"
+        self.email       = "namant1223@gmail.com"
 
         self.specialization = [
             "Agentic AI & Multi-Agent Workflows",
@@ -61,8 +61,7 @@ class NamanTiwari:
 - **Stack:** Python · LangGraph · GPT-4 · Gemini · Flask · React (JSX)
 - **Highlight:** Human-in-the-Loop gap analysis for 100% requirement accuracy
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
-[![Demo](https://img.shields.io/badge/Live%20Demo-7c3aed?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Naman1223/Multi_agent_Colaborative_system)
 
 </td>
 <td width="50%">
@@ -75,8 +74,7 @@ class NamanTiwari:
 - **Stack:** Python · Gemini Pro · LangChain · PyPDF2 · Regex
 - **Highlight:** Semantic gap analysis against Job Descriptions
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
-[![Demo](https://img.shields.io/badge/Live%20Demo-7c3aed?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Naman1223/Resume-Maker-with-ATS-improver-AI-Agent)
 
 </td>
 </tr>
@@ -91,8 +89,7 @@ class NamanTiwari:
 - **Skills:** File queries, system tasks, web search via tool calling
 - **Highlight:** Multi-turn context retention with interrupt handling
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
-[![Demo](https://img.shields.io/badge/Live%20Demo-7c3aed?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Naman1223/VoiceAgent)
 
 </td>
 <td width="50%">
@@ -105,7 +102,7 @@ class NamanTiwari:
 - **Strategy:** ML-based signal generation + risk management
 - **Highlight:** Automated execution with real-time P&L tracking
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Naman1223)
 
 </td>
 </tr>
@@ -162,10 +159,10 @@ class NamanTiwari:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=namantiwari13&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namantiwari13&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naman1223&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman1223&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff"/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=namantiwari13&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=ffffff&sideLabels=ffffff"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=naman1223&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=ffffff&sideLabels=ffffff"/>
 
 </div>
 
@@ -211,7 +208,7 @@ class NamanTiwari:
 *"The best way to predict the future is to build it — autonomously."*
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namantiwari13/)
-[![Email](https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namant112@gmail.com)
+[![Email](https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namant1223@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
