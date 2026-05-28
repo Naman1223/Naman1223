@@ -94,14 +94,6 @@ class NamanTiwari:
 </td>
 <td width="50%">
 
-### Algo Trading Bot (In Progress)
-> Quantitative trading strategies for Indian derivatives markets
-
-- **Markets:** Bank Nifty & Sensex Options
-- **Stack:** Python · Pandas · Scikit-learn · n8n automation
-- **Strategy:** ML-based signal generation + risk management
-- **Highlight:** Automated execution with real-time P&L tracking
-
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Naman1223)
 
 </td>
