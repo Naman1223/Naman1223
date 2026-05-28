@@ -92,15 +92,7 @@ class NamanTiwari:
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Naman1223/VoiceAgent)
 
 </td>
-<td width="50%">
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Naman1223)
-
-</td>
-</tr>
-</table>
-
----
 
 ## Tech Stack
 
