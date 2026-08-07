@@ -34,9 +34,8 @@ class NamanTiwari:
 
         self.currently_building = [
             "MACS — 5-agent SDLC automation (Nemotron, Gemini 2.5 Flash, DeepSeek-R1T2)",
-            "Competitor Intelligence Agent — 4-agent pipeline, deployed as an MCP server",
-            "AI Job Agent — LangGraph + Playwright + Qdrant + LangSmith + Telegram HITL",
             "AI Resume Optimizer — deterministic ATS scoring engine (regex/Counter based)",
+            "Local-First Agentic Voice Assistant — Whisper + Llama 3.1 + LangGraph",
         ]
 
         self.fun_fact = "I build AI agents that build software."
@@ -66,35 +65,6 @@ class NamanTiwari:
 </td>
 <td width="50%">
 
-### Competitor Intelligence Agent
-> Four-agent pipeline exposed as an MCP server for automated competitor research
-
-- **Method:** Agent pipeline wrapped as MCP tools, containerized
-- **Deployment:** Docker → Railway
-- **Stack:** Python · LangGraph · MCP · Docker · Railway
-- **Highlight:** Live, deployed agent service — not just a local script
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Naman1223)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### AI Job Agent
-> Autonomous job-search agent with human-in-the-loop approval over Telegram
-
-- **Flow:** LangGraph state machine drives search → scrape → match → notify
-- **Automation:** Playwright for browser-based scraping
-- **Memory:** Qdrant for semantic job/resume matching
-- **Observability:** LangSmith tracing across the agent graph
-- **Highlight:** Human-in-the-loop approvals delivered via Telegram bot
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Naman1223)
-
-</td>
-<td width="50%">
-
 ### AI Resume Optimizer
 > Deterministic, rule-based ATS scoring engine — not an ML model
 
@@ -104,6 +74,24 @@ class NamanTiwari:
 - **Highlight:** Transparent, explainable scoring instead of an opaque ML model
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Naman1223/Resume-Maker-with-ATS-improver-AI-Agent)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Local-First Agentic Voice Assistant
+> Privacy-centric, low-latency voice assistant that runs entirely on-device
+
+- **STT:** OpenAI Whisper via PyAudio for near-real-time transcription
+- **Reasoning:** Llama 3.1 (Ollama) driven by a LangGraph decision engine
+- **Memory:** Custom state management for multi-turn context retention
+- **Highlight:** Sub-500ms STT latency with intent-based local tool calling
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Naman1223)
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
