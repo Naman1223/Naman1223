@@ -147,19 +147,6 @@ class NamanTiwari:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naman1223&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman1223&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff&cache_seconds=86400"/>
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=naman1223&theme=highcontrast&hide_border=true&background=0d0d0d&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=ffffff&sideLabels=ffffff"/>
-
-</div>
-
----
-
 ## Certifications
 
 | Certificate | Issuer | Domain |
