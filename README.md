@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 Who Am I
+## Who Am I
 
 ```python
 class NamanTiwari:
@@ -46,7 +46,7 @@ class NamanTiwari:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
@@ -108,7 +108,7 @@ Privacy-centric, low-latency voice assistant running entirely on-device.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -156,22 +156,7 @@ Privacy-centric, low-latency voice assistant running entirely on-device.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Naman1223&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=38bdf8&text_color=c9d1d9"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman1223&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Naman1223&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE"/>
-
-</div>
-
----
-
-## 📜 Certifications
+## Certifications
 
 | Certificate | Issuer | Domain |
 |------------|--------|--------|
@@ -183,7 +168,7 @@ Privacy-centric, low-latency voice assistant running entirely on-device.
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 ```
 • Evaluation framework design for agentic systems
@@ -195,7 +180,7 @@ Privacy-centric, low-latency voice assistant running entirely on-device.
 
 ---
 
-## 🎯 Open To
+## Open To
 
 - **AI/ML Internships** — actively looking, open to remote and international roles
 - **Open Source Collaboration** — LangChain, LangGraph, MCP ecosystem
